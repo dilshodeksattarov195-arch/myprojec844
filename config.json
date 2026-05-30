@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperpelete",
+        "uuid": 4650440,
+        "checksum": "fil5ku"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
